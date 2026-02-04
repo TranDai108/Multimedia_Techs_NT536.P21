@@ -1,0 +1,3 @@
+Các cấu hình diaplan được ghi trong file extensions_custom.conf
+Cấu hình phòng họp trong file extensions_additional.conf
+Cấu hình trunking trong file sip_additional.conf
