@@ -1,0 +1,9 @@
+extensions.conf – File tổng hợp chính (core) - Tự động sinh bởi FreePBX, không chỉnh sửa trực tiếp
+
+extensions_additional.conf – File cấu hình tự sinh từ Web GUI -  Tự động sinh bởi FreePBX GUI từ các module như Extensions, Ring Groups, IVR,...
+
+extensions_custom.conf – File cho cấu hình thủ công - Đây là nơi nhóm viết thêm các lệnh dialplan tùy chỉnh mà không bị mất khi reload hệ thống.
+
+sip_additional.conf – Cấu hình cho các SIP client
+
+iax_additional.conf – Cấu hình cho các IAX client
